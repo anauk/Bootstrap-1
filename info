@@ -1,0 +1,9 @@
+bootstrap 3 - построен на float
+bootstrap 4
+
+psdetch - онлайн ресурс для верстки страниц
+
+
+npm i react-bootstrap
+
+npm i --save @fortawesome/free-regular-svg-icons
